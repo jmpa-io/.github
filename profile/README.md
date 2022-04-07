@@ -14,6 +14,8 @@ aka. `J`ust `M`e `P`laying `A`round.
 
 This is a personal GitHub organization for [me](https://github.com/jcleal) to play around with projects.
 
+---
+
 The goal of this org is:
 
 ⚫ To use GitHub Actions for CI/CD.
