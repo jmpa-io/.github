@@ -12,17 +12,15 @@ aka. `J`ust `M`e `P`laying `A`round.
 
 **What this this org?**
 
-This is a personal GitHub organization for me to play around with projects.
+This is a personal GitHub organization for [me](https://github.com/jcleal) to play around with projects.
 
-> [Click here to see a list of the public projects.](https://github.com/jmpa-io?q=&type=public&language=&sort=)
-
-The goal of this is:
+The goal of this org is:
 
 ⚫ To use GitHub Actions for CI/CD.
 
-🟠 To have public + private projects using private secrets here, with some being automatically rotated.
+🟠 To have public + private projects using private secrets here, with some secrets being automatically rotated.
 
-🔴 Any projects that need to be deployed are deployed to a personal AWS account.
+🔴 Any projects that need to be deployed are actually deployed to a personal AWS account.
 
 🟢 To use GitHub Templates as away of enforcing consistantcy across most repositories.
 
@@ -30,6 +28,6 @@ The goal of this is:
 
 > (i.e. posting to Slack, linting, templating, etc.)
 
-🟣 Writing most things myself, unless an offical "thing" is provided that I can trust (or if I just want to write it from scratch).
+🟣 Writing most things from scratch, unless an offical "thing" is provided that can be trusted (or if it would be fun to write from scratch).
 
 > (i.e. like a `GitHub Action` for authing to an AWS account, posting to Slack, etc.)
