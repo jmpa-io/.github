@@ -17,16 +17,3 @@ body:
       description: Give us a brief description of what happened and what should have happened
     validations:
       required: true
-
-  - type: textarea
-    id: steps-to-reproduce
-    attributes:
-      label: Steps To Reproduce
-      description: Steps to reproduce the behavior.
-      placeholder: |
-        1. Go to '...'
-        2. Click on '...'
-        3. Scroll down to '...'
-        4. See error
-    validations:
-      required: true
