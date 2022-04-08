@@ -4,7 +4,7 @@
 
 </div>
 
-See [this doc](https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/) for a breakdown on what exactly a `.github` repository does.
+See [this doc](https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/) for a breakdown on what exactly a `.github` repository does. Here's also the official [GitHub doc](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for this too.
 
 # TODOs
 
