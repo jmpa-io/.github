@@ -12,8 +12,6 @@ A GitHub organization for [me](https://github.com/jcleal) to play around with pr
 
 </div>
 
----
-
 The goal is:
 
 ⚫ To use GitHub Actions for CI/CD.
