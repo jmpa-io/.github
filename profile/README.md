@@ -6,17 +6,15 @@
 
 # `jmpa`
 
-aka. `J`ust `M`e `P`laying `A`round.
+`J`ust `M`e `P`laying `A`round.
+
+A GitHub organization for [me](https://github.com/jcleal) to play around with projects.
 
 </div>
 
-**What this this org?**
-
-This is a personal GitHub organization for [me](https://github.com/jcleal) to play around with projects.
-
 ---
 
-The goal of this org is:
+The goal is:
 
 ⚫ To use GitHub Actions for CI/CD.
 
