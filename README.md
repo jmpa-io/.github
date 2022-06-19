@@ -1,5 +1,3 @@
 # `.github`
 
-Here are some docs on what this repository does:
-* https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/
-* https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file
+> [See this doc for what this repository does](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file).
