@@ -1,4 +1,5 @@
 <p align="center">
+  <img height=50% width=50% src="https://raw.githubusercontent.com/jmpa-io/.github/master/wave.png">
   <img height=50% width=50% src="https://raw.githubusercontent.com/jmpa-io/.github/master/logo.png">
 </p>
 
@@ -6,14 +7,19 @@
 
 # `jmpa`
 
-`J`ust `M`e `P`laying `A`round.
+👉 `J`ust `M`e `P`laying `A`round 👈
 
 A GitHub organization for [me](https://github.com/jcleal) to play around with projects.
 
 </div>
 
-The goal is:
+### **`Goals`**
 
+<details>
+  <summary>Click here to see the goals of this org.</summary>
+  <br/>
+
+```markdown
 ⚫ To use GitHub Actions for CI/CD.
 
 🟠 To have public + private projects using private secrets here, with some secrets being automatically rotated.
@@ -29,3 +35,5 @@ The goal is:
 🟣 Writing most things from scratch, unless an offical "thing" is provided that can be trusted (or if it would be fun to write from scratch).
 
 > (i.e. like a `GitHub Action` for authing to an AWS account, posting to Slack, etc.)
+```
+</details>
