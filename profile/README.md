@@ -1,6 +1,6 @@
 <p align="center">
-  <img height=50% width=50% src="https://raw.githubusercontent.com/jmpa-io/.github/master/wave.png">
-  <img height=50% width=50% src="https://raw.githubusercontent.com/jmpa-io/.github/master/logo.png">
+  <img height=49% width=49% src="https://raw.githubusercontent.com/jmpa-io/.github/master/wave.png">
+  <img height=49% width=49% src="https://raw.githubusercontent.com/jmpa-io/.github/master/logo.png">
 </p>
 
 <div align="center">
@@ -14,10 +14,6 @@ A GitHub organization for [me](https://github.com/jcleal) to play around with pr
 </div>
 
 ### **`Goals`**
-
-<details>
-  <summary>Click here to see the goals of this org.</summary>
-  <br/>
 
 ```markdown
 ⚫ To use GitHub Actions for CI/CD.
@@ -36,4 +32,3 @@ A GitHub organization for [me](https://github.com/jcleal) to play around with pr
 
 > (i.e. like a `GitHub Action` for authing to an AWS account, posting to Slack, etc.)
 ```
-</details>
