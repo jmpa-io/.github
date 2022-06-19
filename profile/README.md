@@ -1,6 +1,5 @@
 <p align="center">
-  <img height=49% width=49% src="https://raw.githubusercontent.com/jmpa-io/.github/master/wave.png">
-  <img height=49% width=49% src="https://raw.githubusercontent.com/jmpa-io/.github/master/logo.png">
+  <img height=100% width=100% src="https://raw.githubusercontent.com/jmpa-io/.github/master/banner.png">
 </p>
 
 <div align="center">
