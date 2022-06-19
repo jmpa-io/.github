@@ -27,7 +27,7 @@ A GitHub organization for [me](https://github.com/jcleal) to play around with pr
 
 > (i.e. posting to Slack, linting, templating, etc.)
 
-🟣 Writing most things from scratch, unless an offical "thing" is provided that can be trusted (or if it would be fun to write from scratch).
+🟣 Writing most things from scratch, unless an offical "thing" is provided that can be trusted.
 
 > (i.e. like a `GitHub Action` for authing to an AWS account, posting to Slack, etc.)
 ```
