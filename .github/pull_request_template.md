@@ -1,5 +1,3 @@
 <!-- 
-Thanks for creating this pull request!
-
-Please make sure that the pull request is limited to one type (docs, feature, etc.) and keep it as small as possible. You can open multiple prs instead of opening a huge one.
+Thank you for creating this pull request! I'm keen to see your changes (or recommendations).
 -->

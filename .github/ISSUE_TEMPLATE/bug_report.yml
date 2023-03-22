@@ -1,4 +1,4 @@
-name: 🐛 Bug Report
+name: 🐞 Bug Report
 description: File a bug report
 title: "[BUG]: "
 labels: ["bug"]
@@ -7,13 +7,12 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
-        Make sure there aren't any open/closed issues for this topic.
+        Thank you for taking the time to fill out this bug report!
 
   - type: textarea
     id: bug-description
     attributes:
       label: Description of the bug
-      description: Give us a brief description of what happened and what should have happened
+      description: Can you please give us a brief description of what happened and what should have happened?
     validations:
       required: true
