@@ -9,13 +9,10 @@ coverage.*
 dist/
 *.zip
 *.pem
-super-linter.log
+traces.txt
 
 # ignore test files.
 /test.sh
 
 # ignore compiled binaries in root.
 /main
-
-# ignore folders generated via CI/CD.
-/depot
