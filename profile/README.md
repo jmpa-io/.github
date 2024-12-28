@@ -8,26 +8,28 @@
 
 👉 `J`ust `M`e `P`laying `A`round 👈
 
-A GitHub organization for [me](https://github.com/jcleal) to play around with projects.
+A GitHub organization for [me](https://github.com/jcleal) to play around with various projects.
+
+> Also, in Australia, a hoodie is sometimes referred to as a jumper – hence the logo.
 
 </div>
 
-### **`Goals`**
+#
+
+### **`Ideals & Guidelines`**
+
+Below outlines the ideals & guidelines for most repositories in this org:
 
 ```markdown
-⚫ To use GitHub Actions for CI/CD.
+⚫ Use GitHub Actions for CI/CD.
 
-🟠 To have public + private projects using private secrets here, with some secrets being automatically rotated.
+🟠 Try and open-source as much as possible, but in a way that is secure.
 
-🔴 Any projects that need to be deployed are actually deployed to a personal AWS account.
+🔴 Any projects that needs to be deployed is actually deployed to an AWS account.
 
-🟢 To use GitHub Templates as away of enforcing consistantcy across most repositories.
+🟢 To use `GitHub Templates` as a way of enforcing consistantcy across MOST GitHub repositories in this org.
 
-🔵 To create custom `GitHub Actions` to handle "standard" workflows.
+🔵 To create custom `GitHub Actions` to handle common problems across various workflows.
 
-> (i.e. posting to Slack, linting, templating, etc.)
-
-🟣 Writing most things from scratch, unless an offical "thing" is provided that can be trusted.
-
-> (i.e. like a `GitHub Action` for authing to an AWS account, posting to Slack, etc.)
+🟣 Write most things from scratch, unless an offical "thing" is provided (that can be trusted).
 ```
