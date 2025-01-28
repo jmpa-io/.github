@@ -26,14 +26,6 @@ updates:
     open-pull-requests-limit: 10
     labels: ["dependencies", "python"]
 
-  # C++ dependencies (vcpkg.json).
-  - package-ecosystem: vcpkg
-    directory: /
-    schedule:
-      interval: weekly
-    open-pull-requests-limit: 10
-    labels: ["dependencies", "cpp"]
-
   # C# dependencies (*.csproj|*.sln).
   - package-ecosystem: nuget
     directory: /
@@ -58,7 +50,7 @@ updates:
     open-pull-requests-limit: 10
     labels: ["dependencies", "java"]
 
-  # JavaScript npm dependencies (package*.json)
+  # JavaScript npm dependencies (package*.json).
   - package-ecosystem: npm
     directory: /
     schedule:
@@ -66,10 +58,19 @@ updates:
     open-pull-requests-limit: 10
     labels: ["dependencies", "javascript"]
 
-  # JavaScript yarn dependencies (yarn*)
-  - package-ecosystem: yarn
+  # Gitsubmodules.
+  - package-ecosystem: gitsubmodule
     directory: /
     schedule:
-      interval: daily
+      interval: weekly
     open-pull-requests-limit: 10
-    labels: ["dependencies", "javascript"]
+    labels: ["dependencies", "gitsubmodule"]
+
+  # Docker dependencies (Dockerfile).
+  - package-ecosystem: docker
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 10
+    labels: ["dependencies", "docker"]
+
